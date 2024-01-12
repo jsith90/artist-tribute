@@ -29,7 +29,7 @@ header {
     margin: 0;
     padding: 0;
     margin-top: 100px;
-    background: lightblue url(/assets/images/felbm.jpg) no-repeat fixed center;
+    background: lightblue url(assets/images/felbm.jpg) no-repeat fixed center;
 }
 
 .img-div {
